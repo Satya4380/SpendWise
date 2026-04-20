@@ -1,5 +1,0 @@
-streamlit
-cohere
-plotly
-pandas
-pyngrok
